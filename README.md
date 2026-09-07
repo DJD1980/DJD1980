@@ -1,7 +1,7 @@
 Welcome to Mashiach Squared 👋                                                 
                                                                                      
  Hi there! I'm a multidisciplinary software engineer, builder, and problem solver.
-  I combine technical precision, robust security, and deep domain passion to create  
+  I combine technical precision, deep domain passion to create  
   high-impact software—ranging from full-scale Google ecosystem apps to specialized  
   tools for human performance, financial systems, healthcare, and consciousness.     
                                                                                      
@@ -19,19 +19,7 @@ Welcome to Mashiach Squared 👋
   * **Secure Financial Engineering**: Reliable transactional pipelines, seamless   
   payment gateway integrations, and robust ledger logic.                             
     * **Smart Analytics & Web3**: Data-driven financial dashboards, predictive       
-  modeling, and decentralized asset architectures.                                   
-                                                                                     
- ### 💊 PharmTech & Healthcare Tech                                               
-  * **Life Sciences Solutions**: Workflow automations for pharmaceutical inventory 
-  management, tracking, and digital health pipelines.                                
-    * **Compliance & Integrity**: Designed with strict attention to data security,   
-  privacy, and clinical data governance.                                             
-                                                                                     
-  ### 🔒 Security & System Architecture                                            
-  * **Defensive by Design**: Implementation of IAM, role-based access controls     
-  (RBAC), end-to-end encryption, and secure API gateways.                            
-    * **Resilient Infrastructure**: Clean system architecture focused on auditability,
-  privacy, and vulnerability prevention.                                             
+  modeling, and decentralized asset architectures.                                                            
                                                                                      
  ### ✡️ Spirituality, Metaphysics & Hebrew Mysticism                              
   * **Sacred Technology**: Custom digital tools exploring Hebrew mysticism,        
@@ -73,14 +61,10 @@ Welcome to Mashiach Squared 👋
 
   
  ## 🤝 Let's Build Something Meaningful
- Whether you're looking to automate critical business workflows, build a secure   
- enterprise application, or bring a visionary wellness and tech project to life, I'd
- love to connect! 👋
+ Whether you're looking to automate critical business workflows, or bring a visionary wellness and tech project to life, I'd love to connect! 👋
 
 
 ## Get in Touch 📬
 
 - **Website** www.mashiachSquared.com
-- **Behance** (https://www.behance.net/gallery/239181603/Mashiach-Squared)
-
 
