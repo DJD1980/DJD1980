@@ -2,24 +2,13 @@ Welcome to Mashiach Squared 👋
                                                                                      
  Hi there! I'm a multidisciplinary software engineer, builder, and problem solver.
   I combine technical precision, deep domain passion to create  
-  high-impact software—ranging from full-scale Google ecosystem apps to specialized  
-  tools for human performance, financial systems, healthcare, and consciousness.     
+  high-impact software—ranging from full-scale specialized  
+  tools for human performance and consciousness.     
                                                                                      
                                                                               
                                                                                      
- ## 💡 What I Bring to the Table                                                  
-                                                                                     
-  ### 🌐 Google Ecosystem & Intelligent Apps                                       
-  * **Google Workspace & Cloud Solutions**: Custom Google Apps Script automations, 
-  Add-ons, GCP serverless backends, and streamlined AppSheet workflows.              
-    * **AI & Agentic Systems**: Building practical AI workflows and intelligent agent
-  integrations powered by Google Gemini.                                             
-                                                                                     
-  ### 💳 FinTech & Digital Commerce                                                
-  * **Secure Financial Engineering**: Reliable transactional pipelines, seamless   
-  payment gateway integrations, and robust ledger logic.                             
-    * **Smart Analytics & Web3**: Data-driven financial dashboards, predictive       
-  modeling, and decentralized asset architectures.                                                            
+ ## 💡 What I Bring to the Table                                              
+                                                                                                                                    
                                                                                      
  ### ✡️ Spirituality, Metaphysics & Hebrew Mysticism                              
   * **Sacred Technology**: Custom digital tools exploring Hebrew mysticism,        
